@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58dc18e51e25411438daf719b0c04491, type: 3}
+  m_Name: Subtitle
+  m_EditorClassIdentifier: 
+  Subtitles:
+  - 'Bahith: So This is where the Sura Shaitan Was last seen, kinda shitty isn''t
+    it. '
+  - "Almalah: Yes, If you use your Seeker Lens you should be able to see where they\u2019ve
+    been."
+  - 'Almalah: To use your Seeker Lens press and hold down the main mouse button. '
+  - 'Almalah: Sura Shaitan Were last reported nearby but you have to work quick you
+    are almost out of charge. '
+  - 'Bahith: Yeah, Yeah I get it as soon as I confirm my capture I recieve my payment
+    in charge. '
+  - 'Almalah: If you forget about it, its all over remember. '
+  - 'Bahith: Yeah I know, Get off my case already. '
+  - 'Bahith: I''ve been doing this for six months. '
+  - 'Almalah: I know none of us here want to see you run out of charge so just...
+    be careful... please.'
+  - 'Bahith: Don''t worry, I''ll catch this bastard for sure.'
+  AudioforSubs:
+  - {fileID: 8300000, guid: e3b167a99aa0dc945a52ebb4a22f99a4, type: 3}
+  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
+  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
+  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
+  - {fileID: 8300000, guid: 70a8ceacc0c8b4a438c293dda419ef40, type: 3}
+  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
+  - {fileID: 8300000, guid: 54df62f14cd227b4b9fe74cd367071c4, type: 3}
+  - {fileID: 8300000, guid: 79cd9f81416cc714c9c7fe538309f914, type: 3}
+  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
+  - {fileID: 8300000, guid: 2cd357f045ca3ba4eb3a94f6bd5ffd0c, type: 3}

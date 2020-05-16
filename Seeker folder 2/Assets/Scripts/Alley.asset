@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58dc18e51e25411438daf719b0c04491, type: 3}
+  m_Name: Alley
+  m_EditorClassIdentifier: 
+  Subtitles:
+  - 'Bahith: damn it this bastard is a quick runner. '
+  - 'Almalah: Stop making stupid puns and keep you''re mind on the job, Your running
+    out of time. '
+  - "Bahith: I know that, jeez, can\u2019t even have a little fun. "
+  - "Almalah: No, you don\u2019t quite understand how close you are to running out
+    of charge. "
+  - "Bahith: it\u2019ll be fine I\u2019ve got this "
+  AudioforSubs:
+  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
+  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
+  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
+  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
+  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
