@@ -15,12 +15,11 @@ MonoBehaviour:
   Subtitles:
   - "Bahith: Shit, They\u2019ve already gone. "
   - "Almalah: They\u2019re nearby, Sura Shaitan was reported here moments ago...  "
-  - 'Almalah: Outside the door there should be an alley. '
-  - 'Almalah: If you hurry up you still have a chance to catch them! '
+  - 'Almalah: Outside the door there should be an alley. If you hurry up you still
+    have a chance to catch them! '
   - 'Bahith: Got it! '
   AudioforSubs:
   - {fileID: 8300000, guid: 536d8a335d7bb644582bb09a3b9b7271, type: 3}
-  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
-  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
-  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
+  - {fileID: 8300000, guid: b2daec8cc17a8cf459e40c065421ebde, type: 3}
+  - {fileID: 8300000, guid: 246e01e6235ae7841b8a6efe8d8e12cf, type: 3}
   - {fileID: 8300000, guid: c2feebfc19612d2449f34ded32989fb4, type: 3}

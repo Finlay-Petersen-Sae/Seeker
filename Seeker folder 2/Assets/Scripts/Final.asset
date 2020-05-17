@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58dc18e51e25411438daf719b0c04491, type: 3}
+  m_Name: Final
+  m_EditorClassIdentifier: 
+  Subtitles:
+  - 'Almalah: Sura Shaitan is just beyond that door. Hurry up and get them. '
+  - "Bahith: Yeah,Yeah I got thi\u2026. Shit "
+  - 'Almalah: Bahith, damn it get up their right their.  '
+  - "Bahith: I messed up big time, so this is it\u2026. "
+  - "Almalah: Someone get down there Bahith has just gone Out of commission and Sura\u2019s
+    cornered. "
+  - "Bahith: should have been quicker\u2026 ah well this is what happens in this world. "
+  - 'Bahith: wish I could have figured out why I was chosen to endure this hell. '
+  - "???: I\u2019m Heading in, You\u2019re not getting away this time. "
+  - 'Bahith : Guess this where it ends, isn''t it. '
+  AudioforSubs:
+  - {fileID: 8300000, guid: be66bea19b4057f46bd29a59812a671c, type: 3}
+  - {fileID: 8300000, guid: eed58e3ea20e9c54f8808e64435442fb, type: 3}
+  - {fileID: 8300000, guid: e3ef40ee5f670314cbbd478a8da75f51, type: 3}
+  - {fileID: 8300000, guid: 53f007b00a227e242bba4a4b5db19c59, type: 3}
+  - {fileID: 8300000, guid: dbba1afb973bb2a41b72a3d6652b5408, type: 3}
+  - {fileID: 8300000, guid: 0b8eba279de4aba42b2fe0249e5a4413, type: 3}
+  - {fileID: 8300000, guid: 8a4557af2dbe5ad44a2d7c6b21c89680, type: 3}
+  - {fileID: 8300000, guid: d9bdb1cb93c046e499e2de6cfb7f1d03, type: 3}
+  - {fileID: 8300000, guid: e35b9082a747c0a468250a7afe1611d2, type: 3}

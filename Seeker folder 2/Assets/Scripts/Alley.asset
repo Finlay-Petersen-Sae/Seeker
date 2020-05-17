@@ -21,8 +21,8 @@ MonoBehaviour:
     of charge. "
   - "Bahith: it\u2019ll be fine I\u2019ve got this "
   AudioforSubs:
-  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
-  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
-  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
-  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
-  - {fileID: 8300000, guid: c5d7d3c95a2efe844819c13d4a07248e, type: 3}
+  - {fileID: 8300000, guid: 3beddef6ffc893844b9dd81e161bd0a1, type: 3}
+  - {fileID: 8300000, guid: 73fa0f2676cb6144aa6989d970ae1e9d, type: 3}
+  - {fileID: 8300000, guid: f892ea0418630ec4f8fb7ee469ec3c16, type: 3}
+  - {fileID: 8300000, guid: 8a36f65f738f0ea4fb8aecb85fd57afd, type: 3}
+  - {fileID: 8300000, guid: 9f4f1f0bc56fd2b45984671f27774b98, type: 3}
